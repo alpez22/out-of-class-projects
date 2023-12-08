@@ -1,1 +1,1 @@
-# projects
+This Repository contains my out of class projects, all of which have a read me file that explains more about what they do.
