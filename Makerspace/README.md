@@ -1,0 +1,1 @@
+This project is meant to create a UI for Managers and Staff to see who has clocked in and the upgrades that they possess to help students. Using the Deputy API to pull information whenever a student is clocked in or out as well as who will be on shift the coming.
