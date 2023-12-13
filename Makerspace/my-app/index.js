@@ -28,6 +28,10 @@ app.post('/webhook', (req, res) => {
   console.log(req.headers)
   //should give the data infos
   console.log(req.data)
+  console.log(req.params)
+  console.log(req.query)
+  console.log(req.address)
+  console.log(req)
   console.log("working")
   res.json({"yo": "hey"})
 })
