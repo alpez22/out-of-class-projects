@@ -1,0 +1,3 @@
+[submodule "Makerspace/Makerspace/ava-app"]
+	path = Makerspace/Makerspace/ava-app
+	url = https://github.com/uwmakerspace/ava-app
